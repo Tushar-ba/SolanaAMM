@@ -1,0 +1,10 @@
+{
+    "name": "TEST",
+    "symbol": "T",
+    "description": "Experimental token for testing",
+    "image": "https://brown-wonderful-whale-251.mypinata.cloud/ipfs/bafybeiag6suuu7vp23jpdl3o3kut5rtmuvhkvsx7elgt3m2c7n54lv66p4",
+    "attributes": [
+      { "trait_type": "Purpose", "value": "Learning" }
+    ]
+  }
+  
